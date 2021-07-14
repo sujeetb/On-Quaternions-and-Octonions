@@ -1,2 +1,2 @@
 # On-Quaternions-and-Octonions
-Semester reading project
+These are notes from a reading course on quaternions, following "On Quaternions and Octonions" by Conway and Smith.
